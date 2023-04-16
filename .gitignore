@@ -1,0 +1,4 @@
+venv
+.idea
+kubernetes/secret-sa.yml
+kubernetes/secret-as-environment-variable.yaml
